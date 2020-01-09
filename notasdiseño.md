@@ -182,3 +182,23 @@ Usar sombras y luces para dar a entender la existencia de elementos que estén f
 - Criticize your own artwork
 - Introduction/Rough understanding/Repetition and solidification of understanding/Automatic execution
 - Take feedback
+
+### Design tips
+- **Avoid evenness.** No matter how hard you try, you'll always end up making even things. Make a paint/line-over.
+- For paintovers, up the blacks in the image curves; that will make the image easier to paint on top.
+- Mindmap: the 6 W's ( who, when, how... ), of a particular item (how did people used this?, how did it age?)
+
+### Evenness
+- Hierarchy of proportions: Large is primary, medium is secondary, small is tertiary
+- If everyone is special, no one is special
+- **70/30 rule**
+- "More this than that": Something is larger, something is smaller, something is duller, something is more saturate...
+- Avoid 'pannelling', and repetition as much as possible
+- Avoid having 50/50 items, specially in shape and size, but also in arrangement and color
+- **The modular corridor example: 2-1-8-2 rather than 2-2-2-2-2**
+- This also applies to negative space
+- Evenness is not repetition. Unintentional evenness is bad and to be avoided; repetition is a perfectly usable tool when used corrently and intentionally
+- In certain cases, specially for man-made, industrial design, evenness is acceptable and used.
+- Look for evenness not only in terms of items themselves, but in terms of spatial division
+- **Thinking about 'how to divide the white canvas', not about 'what I want to paint'**
+- The positioning of an element compared to its 'sibling' or 'parent' elements is also important
