@@ -40,7 +40,7 @@ Mantain a visual weight hierarchy, to avoid too much uniformity, but still manta
 5. LLamar la atención hacia un punto concreto
 
 ### Harmonías cromáticas
-![Rueda cromática](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BYR_color_wheel.svg/1280px-BYR_color_wheel.svg.png)
+![Rueda cromática](colorwheel.bmp)
 
 Se refieren al tono, no a la luminancia/saturación
 
@@ -202,3 +202,21 @@ Usar sombras y luces para dar a entender la existencia de elementos que estén f
 - Look for evenness not only in terms of items themselves, but in terms of spatial division
 - **Thinking about 'how to divide the white canvas', not about 'what I want to paint'**
 - The positioning of an element compared to its 'sibling' or 'parent' elements is also important
+
+### Eco & Framing
+- Reutilización de elementos, simplifica el número de 'cosas distintas' para que el ojo tenga más facil interpretar la imagen
+- **Regla de 3:** El mínimo para obtener un patrón, pero no demasiadas como para volverse demasiado caótico. Intentar aplicar el eco en grupos de tres
+- **Framing**: Reforzar lo que ya existe, generalmente mediante 'linework', es una forma de hacer eco y reforzar una línea ya existente.
+- Reutilizar partes una y otra vez sobre el diseño, generalmente detalles terciarios o secundarios.
+- Pensar en la separación y la posición entre ellos, y hacia a donde apuntan en su conjunto, para guiar el ojo.
+- No solo formas como tornillos o decals, si no también en cuanto a materiales colores o incluso elementos enteros
+- Los circulos generalmente necesitan ser reforzados
+
+### Ritmo y repetición
+- La repetición es una herramienta, y debe ser usada, aunque con cautela.
+- **Líneas no descritas:** Las líneas descritas son aquellas rectas y continuas dibujadas expresamente. Las líneas NO descritas son aquellas que se forman en base a la repetición de elementos, como una serie de árboles en los bordes de un camino.
+- El ritmo es crear patrones dinámicos rompiendo uniformidad en base a su posición y su espaciado, jerarquía...
+- Esto se entrelaza con la regla del 70/30, deberíamos tener patrones grandes, medianos y pequeños detalles.
+- La repetición pueden ser útiles en los espacios vacíos, siempre y cuando sean discretos
+- Una forma sencilla, siempre que sea discreta, de añadir detalle fácil sin sobrecargar el elemento.
+- 
